@@ -2,7 +2,6 @@ version: 0.2
 
 phases:
   install:
-    run-as: Linux-user-name
     on-failure: ABORT
     runtime-versions:
       nodejs: 14
