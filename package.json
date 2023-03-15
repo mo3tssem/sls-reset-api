@@ -1,0 +1,17 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Our test passed\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-jwt-verify": "^3.4.0",
+    "aws-sdk": "^2.1334.0",
+    "serverless-iam-roles-per-function": "^3.2.0"
+  }
+}

@@ -1,1 +1,0 @@
-Applying SLS Github pipeline s
